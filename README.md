@@ -20,7 +20,7 @@ It provides DB2 Connection by extending the Illuminate Database component of the
 Add laravel-db2 to your composer.json file:
 ```
 "require": {
-    "cooperl/laravel-db2": "^8.0"
+    "php-thalla/laravel-db2": "1.0"
 }
 ```
 Use [composer](https://getcomposer.org) to install this package.
